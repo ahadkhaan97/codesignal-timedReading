@@ -32,4 +32,4 @@ Guaranteed constraints:
 
 [output] integer
 
-The number of words the boy has read.
+The number of words the boy has read...
